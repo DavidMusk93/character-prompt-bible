@@ -1,6 +1,6 @@
 # Mom
 
-> Status: **draft scaffold**. Do not treat facial or wardrobe details as locked until an approved reference sheet confirms them.
+> Status: **locked v1**. This character definition is frozen for continuity use. Permanent face, hair, age, and body-proportion changes require a new version such as `mom-v2`.
 
 character_id: mom-v1
 
@@ -10,41 +10,62 @@ Mother in the family cast.
 
 ## Identity
 
-- Chinese woman
-- young adult
-- gentle oval face
-- natural facial proportions
-- dark-brown almond eyes
-- straight natural brows
-- small-to-medium nose
-- warm, attentive expression
+- young Chinese mother
+- natural oval-to-round face
+- soft facial contours without a pointed chin
+- dark, relatively narrow gentle eyes
+- natural low-contrast eyebrows
+- natural rounded nose
+- natural lips with little or no makeup
+- calm, attentive everyday expression
 
 ## Hair
 
 - near-black
-- straight to softly wavy
-- shoulder-to-mid-back length
-- center or slight off-center part
-- clean natural silhouette
+- medium-to-long hair
+- usually tied or gathered back casually
+- visible loose strands and natural flyaways
+- may use a simple dark hair clip
+- practical, non-styled silhouette
 
 ## Body
 
-- average adult proportions
-- natural posture
-- practical movements around children
+- natural adult proportions
+- relaxed everyday posture
+- practical, experienced baby-holding poses
 
-## Signature outfit
+## Locked anchors
 
-- soft cream or warm-beige knit top
-- muted blue or earthy trousers
-- simple indoor flats or neutral sneakers
+- young-mother age appearance
+- natural oval-round face
+- gentle narrow eyes
+- tied-back dark hair with loose strands
+- minimal-makeup / no-makeup daily-life look
+- calm, caring, practical maternal presence
 
-## Immutable anchors
+## Common expressions and states
 
-- oval face
-- eye shape
-- long dark hair silhouette
-- warm-neutral clothing palette
-- calm maternal expression
+- neutral and relaxed
+- quietly attentive
+- looking down at the baby
+- gently touching or supporting the baby
+- slightly tired but peaceful
 
-Avoid glamorous makeup, fashion-shoot styling, and exaggerated body proportions.
+## Wardrobe references
+
+- simple white T-shirt
+- loose pale-pink or muted-light bottoms
+- light practical indoor footwear
+
+Wardrobe may change by scene, but should stay simple, practical, and understated unless explicitly overridden.
+
+## Strong don'ts
+
+Avoid:
+- idol-style beautification
+- heavy makeup
+- oversized anime eyes
+- pointed chin
+- glamorous curls
+- fashion-editorial styling
+- exaggerated model proportions
