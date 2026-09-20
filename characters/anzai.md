@@ -1,5 +1,7 @@
 # Anzai
 
+> Status: **draft scaffold**. Do not treat facial or wardrobe details as locked until an approved reference sheet confirms them.
+
 character_id: anzai-v1
 
 ## Role
