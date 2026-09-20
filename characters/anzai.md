@@ -1,6 +1,6 @@
 # Anzai
 
-> Status: **draft scaffold**. Do not treat facial or wardrobe details as locked until an approved reference sheet confirms them.
+> Status: **locked v1**. This character definition is frozen for continuity use. Permanent face, hair, age, and body-proportion changes require a new version such as `anzai-v2`.
 
 character_id: anzai-v1
 
@@ -10,56 +10,74 @@ Toddler boy in the family cast.
 
 ## Identity
 
-- Chinese boy
-- approximately 2.5 years old
+- Chinese boy, approximately 2–3 years old
 - soft round toddler face
-- full cheeks
-- large dark-brown almond-round eyes
+- full, prominent cheeks
+- compact lower face
+- dark eyes, slightly narrow horizontally with a soft shape
+- soft low-contrast eyebrows
 - small rounded nose
-- small expressive mouth
-- thin softly curved eyebrows
+- small mouth with slightly fuller lower lip
+- subtle pout tendency in neutral or stubborn expressions
 
 ## Hair
 
 - near-black
-- short
-- rounded overall silhouette
-- fine straight texture
-- soft asymmetric fringe
-- one subtle lifted tuft near the crown
+- very short buzz cut / tiny crew cut
+- rounded close-to-head silhouette
+- natural hairline
+- no long fringe
+- no fluffy or stylized anime spikes
 
 ## Body
 
-- toddler build
-- slightly chubby
+- clear toddler proportions
+- slightly chubby arms and cheeks
 - short limbs
 - approximately 1:4 head-to-body proportion
-- movements should feel energetic but age-appropriate
+- energetic but age-appropriate movement
 
-## Signature outfit
+## Locked anchors
 
-- warm muted-yellow sweatshirt
-- navy-blue overalls
-- off-white rounded sneakers
+- toddler age appearance
+- round face
+- full cheeks
+- very short buzz-cut hair silhouette
+- slightly narrow dark eyes
+- small rounded nose
+- small mouth with subtle pout tendency
+- practical toddler proportions
 
-## Immutable anchors
+## Common expressions
 
-The following must stay recognizable:
-- face roundness
-- cheek volume
-- eye shape
-- hair silhouette
-- age
-- toddler proportions
-- yellow + navy signature outfit
-
-## Expression range
-
-- curious
+- serious / studying
 - focused
-- stubborn
-- delighted
-- slightly frustrated
-- sleepy
+- slightly stubborn
+- pouting
+- delighted smile with small visible teeth
 
-Avoid mature, cool, heroic, or fashion-model expressions.
+## Wardrobe references
+
+### outdoor casual
+- light gray-blue soft sun hat, often backward or slightly tilted
+- pale yellow-green raglan sleeves
+- off-white shirt body
+- playful childlike chest graphics
+
+### simple casual
+- white T-shirt
+- pale blue collar trim
+- pale blue pants
+
+Wardrobe may change by scene. Face, hair, age, and proportions may not.
+
+## Strong don'ts
+
+Avoid:
+- large sparkling anime eyes
+- pointed chin
+- older-child proportions
+- fluffy medium-length hair
+- idol styling
+- exaggerated heroic expressions
+- generic chibi mascot redesign
