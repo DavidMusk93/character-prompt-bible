@@ -1,5 +1,7 @@
 # Xiner
 
+> Status: **draft scaffold**. Do not treat facial or wardrobe details as locked until an approved reference sheet confirms them.
+
 character_id: xiner-v1
 
 ## Role
