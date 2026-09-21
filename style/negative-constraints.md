@@ -19,15 +19,33 @@ Avoid:
 
 Avoid:
 - photorealism
-- 3D Pixar-like rendering
-- glossy game-render skin
+- glossy 3D animation rendering
+- game-render skin
 - extreme chibi
 - hyper-detailed seinen line art
 - cyberpunk color grading
 - fashion illustration
-- watercolor-only rendering
+- watercolor-only rendering with no form construction
 - oil painting
 - western comic-book inking
+- sterile vector art
+- flat paper-doll anatomy
+- flat front lighting
+- shadowless faces
+- plastic-looking highlights
+
+## Character vitality failures
+
+Avoid:
+- thin, deflated-looking cheeks on children
+- weak or under-constructed limbs
+- stiff symmetrical poses
+- mannequin posture
+- every character staring at the camera
+- lifeless facial expressions
+- weightless seated poses
+- hands that do not convincingly contact objects
+- overly delicate fashion-model anatomy
 
 ## Common generation defects
 
