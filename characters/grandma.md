@@ -14,7 +14,7 @@ Grandmother in the family cast.
 - round-to-oval face
 - full, natural facial volume
 - lively dark eyes
-- warm, highly recognizable smile, often showing teeth
+- warm, gentle smile
 - natural age lines around eyes and mouth
 - rounded natural nose
 - energetic, capable family-elder presence
@@ -39,16 +39,24 @@ Grandmother in the family cast.
 - grandmother age appearance
 - round-to-oval face
 - lively eyes
-- warm tooth-showing smile
+- warm gentle smile
 - tied or gathered dark hair with some gray and loose strands
 - energetic, practical, capable family-elder presence
 
 ## Common expressions and states
 
-- open warm smile
-- cheerful household activity
-- focused attention on a child
-- relaxed while holding or guiding a child
+Preferred:
+- gentle closed-mouth smile
+- small smile with slight teeth visible
+- calm attentive look toward a child
+- relaxed expression while holding or guiding a child
+- cheerful but restrained household expression
+
+Avoid by default:
+- broad open-mouth laughter
+- exaggerated toothy grin
+- comedy-like laughing face
+- overexcited expression
 
 ## Wardrobe references
 
@@ -68,4 +76,5 @@ Avoid:
 - heavy makeup
 - elaborate curls
 - caricatured old-lady features
+- exaggerated broad laughter
 - passive or sickly presentation unless a scene explicitly requires it
