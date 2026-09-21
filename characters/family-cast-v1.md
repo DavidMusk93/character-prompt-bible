@@ -1,7 +1,7 @@
 # Family Cast v1
 
 cast_id: family-cast-v1
-style_id: family-anime-v1
+style_id: family-anime-v2
 status: locked
 
 ## Members
@@ -36,13 +36,25 @@ Do not blend traits between characters.
 
 ## Shared rendering rules
 
-- warm contemporary family-anime illustration
-- rounded, clean line language
-- soft cel shading with restrained painterly softness
+Use `family-anime-v2`.
+
+The family should look:
+- hand-drawn
+- warm
+- rounded
+- physically present
+- full and lively rather than flat
+- expressive without manga exaggeration
+
+Important rendering requirements:
+- clear face and body volume
+- rounded cheek and limb construction
+- directional light that reveals form
+- soft contact shadows
+- visible weight in seated and crouching poses
+- active, asymmetrical gestures
+- painted environmental depth
 - natural family proportions
-- believable domestic environments
-- gentle everyday lighting
-- expressive but not exaggerated faces
 
 ## Locked rules
 
@@ -69,6 +81,7 @@ Avoid:
 - random hairstyle redesign
 - generic chibi conversion
 - photorealistic rendering
+- flat cutout-like characters
 - blending Mom and Grandma into the same face
 - making Xiner look toddler-aged
 - making Anzai look school-aged
