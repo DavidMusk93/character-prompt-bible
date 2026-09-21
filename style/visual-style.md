@@ -1,142 +1,200 @@
-# Visual Style v2
+# Visual Style v3
 
-style_id: family-anime-v2
+style_id: family-anime-v3
 
 ## Direction
 
-Warm, cinematic, hand-drawn Japanese feature-animation look with a late-20th-century cel-painted feeling.
+A clearly **2D anime** family illustration with the warmth of classic hand-drawn Japanese feature animation.
 
-The target qualities are:
-- warm human storytelling
-- rounded, appealing character construction
-- strong sense of physical volume
-- lively, imperfect hand-drawn energy
-- soft painted backgrounds
-- natural domestic warmth
+The target feeling is:
+- unmistakably animated, not realistic
+- warm, humane, gentle family storytelling
+- rounded and appealing character construction
+- lively but restrained expressions
+- strong three-dimensional form built with **anime cel shading**
+- softly painted domestic backgrounds
+- cozy, sunlit everyday life
 
-Do not copy any specific existing film, character design, costume, or frame.
+Reference direction: classic Studio Ghibli-like domestic warmth and hand-drawn animation language, without copying any specific film, character, costume, frame, or composition.
 
-## Character form
+## Non-negotiable style rule
 
-Characters must feel **three-dimensional and physically present**, not flat cutouts.
+The image must read as **anime first**.
 
-Use:
-- rounded skull, cheek, jaw, shoulder, arm, hand, torso, and leg volumes
-- visible weight and gravity in seated, crouching, carrying, and reaching poses
-- gentle overlap between forms
-- clear front / side / turning planes on the face
-- subtle compression of cheeks, clothing, and limbs where bodies touch
-- soft but readable form shadows under chin, nose, cheeks, sleeves, arms, and legs
+Do not drift toward:
+- realistic portrait painting
+- semi-realistic skin rendering
+- photographic facial texture
+- glossy 3D animation
+- live-action likeness reconstruction
 
-Children should feel:
-- full
-- soft
-- energetic
-- physically grounded
-- naturally cute without chibi exaggeration
+Identity should be preserved through:
+- face shape
+- eye shape
+- hair silhouette
+- age
+- proportions
+- characteristic expression
 
-Adults should feel:
-- warm
-- substantial
-- expressive
-- naturally proportioned rather than fashion-model thin
+—not through realistic skin detail.
+
+## Anime character construction
+
+Use simplified 2D animation forms with strong volume.
+
+Faces:
+- simple anime facial features
+- rounded skull and cheek masses
+- clear front plane, cheek turn, and jaw turn
+- simplified nose
+- small mouth
+- clean eye shapes
+- no pores, wrinkles rendered as skin texture, or photographic micro-detail
+
+Bodies:
+- rounded shoulders, arms, hands, torso, thighs, and knees
+- clear mass and weight
+- soft, full child anatomy
+- clothing wraps around the body volume
+- poses show balance, contact, and gravity
+
+## Volume without realism
+
+Create depth using classic animation techniques:
+
+- 3-value cel shading: light / midtone / shadow
+- one clear directional key light
+- soft secondary reflected light
+- contact shadows at neck, sleeves, elbows, lap, hands, and body overlaps
+- subtle cheek-plane shadow
+- shadow under nose, lower lip, chin, and bangs
+- overlap between limbs and torso
+- perspective size changes between near and far forms
+- foreground / middle-ground / background separation
+
+Do **not** create volume by adding realistic skin texture.
 
 ## Line language
 
-- hand-drawn, slightly organic contour lines
+- clean hand-drawn contour lines
+- slightly organic, never vector-perfect
 - variable line weight
-- avoid sterile vector-perfect outlines
-- facial details remain simple but specific
-- use line economy: fewer lines, better shapes
+- stronger outer contour, lighter internal detail
+- simple facial lines
+- expressive but restrained drawing
+- no sketchy realism
 
-## Rendering
+## Character fullness and vitality
 
-- 2–3 readable cel-shading value groups
-- soft secondary bounce light
-- restrained painterly blending on cheeks, fabric, and environment
-- warm skin with subtle color variation
-- matte surfaces; no plastic gloss
-- clear separation of light, midtone, and shadow
+People should feel **full, healthy, warm, and alive**.
 
-The image should retain illustrated charm while giving the characters convincing volume.
+Children:
+- round, full cheeks
+- soft arms and legs
+- healthy toddler / infant fullness
+- relaxed natural hands
+- energetic but believable poses
+
+Adults:
+- natural, substantial body mass
+- relaxed shoulders
+- grounded seated and crouching poses
+- no fashion-model thinness
+
+## Expressions
+
+Default emotional tone:
+- gentle
+- warm
+- attentive
+- relaxed
+- affectionate
+
+Prefer:
+- soft smile
+- small closed-mouth smile
+- slight tooth-showing smile
+- calm focused look
+- subtle curiosity
+
+Avoid:
+- exaggerated open-mouth laughter
+- huge grin
+- extreme anime reaction face
+- overexcited expression
+- everyone smiling broadly at once
+
+## Grandma expression rule
+
+Grandma should feel warm and lively but **not laugh broadly** by default.
+
+Preferred:
+- gentle smile
+- relaxed closed-mouth smile
+- small smile with only slight teeth visible
+- attentive expression while looking at the child
+
+Avoid:
+- very wide open-mouth smile
+- exaggerated toothy grin
+- comedy-like laughing face
+
+## Pose and life
+
+Every character should feel candid and active.
+
+Prefer:
+- natural head tilt
+- slight torso twist
+- visible weight shift
+- one shoulder slightly higher than the other
+- elbows and knees at different angles
+- hands making believable contact
+- gaze directed toward another person or object
+
+Avoid:
+- symmetrical mannequin posture
+- posed family-photo stiffness
+- everybody facing the camera
 
 ## Lighting
 
-Preferred:
-- warm window light or warm household key light
-- cooler soft ambient fill
-- gentle contact shadows
-- subtle reflected light from nearby walls, floor, clothes, and furniture
-- soft edge transitions on skin
-- enough directional lighting to reveal facial and body volume
+Use animation-style lighting:
+- warm sunlight or warm household light
+- soft cool ambient fill
+- clear cel-shadow shapes
+- subtle reflected warm light
+- enough shadow to reveal form
 
 Avoid:
 - flat front lighting
 - shadowless faces
-- blown-out skin
-- glossy 3D-render highlights
-- dramatic cinematic noir lighting
-
-## Shape language
-
-- rounded silhouettes
-- soft corners
-- full cheeks and soft limbs for young children
-- readable gesture and asymmetry
-- simple forms with strong construction
-- no paper-doll flatness
-
-## Pose and energy
-
-Every character should feel alive.
-
-Prefer:
-- slight torso twist
-- natural head tilt
-- weight shift
-- hands actively interacting with objects or another person
-- small asymmetries in shoulders, knees, elbows, and facial expression
-- candid family-life timing rather than posed portrait stiffness
-
-Avoid:
-- symmetrical mannequin poses
-- stiff hands
-- everybody facing the camera
-- frozen catalog-photo posture
+- realistic cinematic skin highlights
+- glossy specular skin
 
 ## Background
 
-- soft hand-painted watercolor / gouache feeling
-- warm natural materials
-- lived-in domestic detail
-- simplified but atmospheric
-- depth through overlapping furniture, foreground objects, and soft value separation
-
-The background should support the characters and create depth without competing with them.
+- hand-painted animation background
+- watercolor / gouache-like color fields
+- soft detail hierarchy
+- warm wood, fabric, plants, toys, and home objects
+- clear depth through overlap and value separation
+- background softer and less detailed than character faces
 
 ## Camera
 
 Preferred:
-- eye-level or child-eye-level framing
+- eye-level or child-eye-level
 - 35–50 mm equivalent perspective
-- medium or medium-wide storytelling shots
-- slight foreground overlap for depth
+- medium or medium-wide storytelling shot
+- slight foreground overlap
 - clear near / middle / far planes
 
 Avoid:
-- extreme fisheye
-- heroic low-angle distortion
-- fashion-editorial poses
-- exaggerated anime foreshortening
-
-## Texture
-
-- subtle paper and paint texture is welcome
-- soft fabric texture
-- natural wood and cloth variation
-- no glossy game-render skin
-- no hyper-detailed pores
-- no sterile digital-vector finish
+- fisheye distortion
+- heroic low angle
+- fashion-editorial composition
+- extreme perspective
 
 ## Consistency rule
 
